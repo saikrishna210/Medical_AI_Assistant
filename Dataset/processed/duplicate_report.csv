@@ -1,0 +1,892 @@
+question_clean,total_records,unique_answers
+How to diagnose Adrenal Insufficiency and Addison's Disease ?,2,2
+How to diagnose Alzheimer's Caregiving ?,2,2
+How to diagnose Alzheimer's Disease ?,3,3
+How to diagnose Amyloidosis and Kidney Disease ?,2,2
+How to diagnose Breast Cancer ?,3,3
+How to diagnose COPD ?,2,2
+How to diagnose Celiac Disease ?,2,2
+How to diagnose Creating a Family Health History ?,2,2
+How to diagnose Diabetic Kidney Disease ?,2,2
+How to diagnose Diagnosis of Diabetes and Prediabetes ?,2,2
+How to diagnose Glomerular Diseases ?,2,1
+How to diagnose Heart Attack ?,3,3
+How to diagnose Heart Failure ?,4,4
+How to diagnose Hemochromatosis ?,2,2
+How to diagnose High Blood Cholesterol ?,2,2
+How to diagnose High Blood Pressure ?,2,2
+How to diagnose IgA Nephropathy ?,2,2
+How to diagnose Kidney Disease of Diabetes ?,2,1
+How to diagnose Narcolepsy ?,2,2
+How to diagnose Osteoporosis ?,2,2
+How to diagnose Paget's Disease of Bone ?,2,2
+How to diagnose Peripheral Arterial Disease (P.A.D.) ?,2,2
+How to diagnose Polycythemia Vera ?,2,2
+How to diagnose Primary Hyperparathyroidism ?,2,2
+How to diagnose Prostate Cancer ?,3,3
+How to diagnose Proteinuria ?,2,2
+How to diagnose Renal Tubular Acidosis ?,2,1
+How to diagnose Rheumatoid Arthritis ?,2,2
+How to diagnose Skin Cancer ?,2,2
+How to diagnose Stroke ?,2,2
+How to diagnose Urinary Incontinence ?,2,2
+How to diagnose Urinary Tract Infections in Children ?,2,2
+How to diagnose Vesicoureteral Reflux ?,2,2
+How to diagnose What I need to know about Gestational Diabetes ?,3,3
+How to diagnose What I need to know about My Child's Urinary Tract Infection ?,2,2
+How to prevent Alzheimer's Disease ?,5,5
+How to prevent Balance Problems ?,3,3
+How to prevent Breast Cancer ?,3,3
+How to prevent COPD ?,2,2
+How to prevent Colorectal Cancer ?,2,2
+How to prevent Diabetes ?,3,3
+How to prevent Gum (Periodontal) Disease ?,2,2
+How to prevent Hearing Loss ?,3,3
+How to prevent Heart Failure ?,2,2
+How to prevent High Blood Pressure ?,4,4
+How to prevent Kidney Disease of Diabetes ?,2,1
+How to prevent Medullary Sponge Kidney ?,2,2
+How to prevent Peripheral Arterial Disease (P.A.D.) ?,2,2
+How to prevent Prevent diabetes problems: Keep your heart and blood vessels healthy ?,2,2
+How to prevent Shingles ?,2,2
+How to prevent Stroke ?,3,3
+How to prevent Urinary Tract Infections ?,2,2
+Is 21-hydroxylase deficiency inherited ?,2,2
+Is 22q11.2 deletion syndrome inherited ?,2,2
+Is 2q37 deletion syndrome inherited ?,2,2
+"Is 48,XXYY syndrome inherited ?",2,2
+Is Alport syndrome inherited ?,2,2
+Is Angelman syndrome inherited ?,2,2
+Is Arts syndrome inherited ?,2,2
+Is Asperger syndrome inherited ?,2,2
+Is Bartter syndrome inherited ?,2,2
+Is Camurati-Engelmann disease inherited ?,2,2
+Is Cornelia de Lange syndrome inherited ?,2,2
+Is Cowden syndrome inherited ?,2,2
+Is Danon disease inherited ?,2,2
+Is Denys-Drash syndrome inherited ?,2,2
+Is Ehlers-Danlos syndrome inherited ?,2,2
+Is Ewing sarcoma inherited ?,2,2
+Is Fabry disease inherited ?,2,2
+Is Friedreich ataxia inherited ?,2,2
+Is Fryns syndrome inherited ?,2,2
+Is GM1 gangliosidosis inherited ?,2,2
+Is Gilbert syndrome inherited ?,2,2
+Is Greig cephalopolysyndactyly syndrome inherited ?,2,2
+Is Holt-Oram syndrome inherited ?,2,2
+Is Huntington disease inherited ?,2,2
+Is Joubert syndrome inherited ?,2,2
+Is Kallmann syndrome inherited ?,2,2
+Is Klinefelter syndrome inherited ?,2,2
+Is Langerhans cell histiocytosis inherited ?,2,2
+Is Laron syndrome inherited ?,2,2
+Is Larsen syndrome inherited ?,2,2
+Is Leber hereditary optic neuropathy inherited ?,2,2
+Is Liddle syndrome inherited ?,2,2
+Is Lynch syndrome inherited ?,2,2
+Is MECP2 duplication syndrome inherited ?,2,2
+Is Majeed syndrome inherited ?,2,2
+Is Marfan syndrome inherited ?,2,2
+Is Milroy disease inherited ?,2,2
+Is Moebius syndrome inherited ?,2,2
+Is Mowat-Wilson syndrome inherited ?,2,2
+Is Myhre syndrome inherited ?,2,2
+Is Nicolaides-Baraitser syndrome inherited ?,2,2
+Is Noonan syndrome inherited ?,2,2
+Is Opitz G/BBB syndrome inherited ?,2,2
+Is Parkinson disease inherited ?,2,2
+Is Partington syndrome inherited ?,2,2
+Is Pelizaeus-Merzbacher disease inherited ?,2,2
+Is Pendred syndrome inherited ?,2,2
+Is Peters plus syndrome inherited ?,2,2
+Is Peutz-Jeghers syndrome inherited ?,2,2
+Is Poland syndrome inherited ?,2,2
+Is Prader-Willi syndrome inherited ?,2,2
+Is Rett syndrome inherited ?,2,2
+Is Robinow syndrome inherited ?,2,2
+Is Russell-Silver syndrome inherited ?,2,2
+Is Sotos syndrome inherited ?,2,2
+Is Tay-Sachs disease inherited ?,2,2
+Is Tourette syndrome inherited ?,2,2
+Is Troyer syndrome inherited ?,2,2
+Is Turner syndrome inherited ?,2,2
+Is Williams syndrome inherited ?,2,2
+Is Wilson disease inherited ?,2,2
+Is Wolff-Parkinson-White syndrome inherited ?,2,2
+Is Wolfram syndrome inherited ?,2,2
+Is X-linked adrenal hypoplasia congenita inherited ?,2,2
+What are the complications of Knee Replacement ?,3,3
+What are the complications of Polycystic Kidney Disease ?,2,2
+What are the stages of Breast Cancer ?,2,2
+What are the symptoms of Abdominal Adhesions ?,2,2
+What are the symptoms of Acromegaly ?,2,2
+What are the symptoms of Age-related Macular Degeneration ?,3,3
+What are the symptoms of Amyloidosis and Kidney Disease ?,2,2
+What are the symptoms of Asthma ?,2,2
+What are the symptoms of Balance Problems ?,2,2
+What are the symptoms of Breast Cancer ?,4,4
+What are the symptoms of COPD ?,3,3
+What are the symptoms of Cataract ?,2,2
+What are the symptoms of Celiac Disease ?,2,2
+What are the symptoms of Colorectal Cancer ?,2,2
+What are the symptoms of Cyclic Vomiting Syndrome ?,2,2
+What are the symptoms of Depression ?,2,2
+What are the symptoms of Diabetes ?,2,2
+What are the symptoms of Diabetic Retinopathy ?,3,3
+What are the symptoms of Dry Eye ?,2,2
+What are the symptoms of Gastritis ?,2,2
+What are the symptoms of Glaucoma ?,2,2
+What are the symptoms of Gout ?,2,2
+What are the symptoms of Gum (Periodontal) Disease ?,2,2
+What are the symptoms of Heart Attack ?,4,4
+What are the symptoms of Heart Failure ?,3,3
+What are the symptoms of Hemochromatosis ?,3,3
+What are the symptoms of High Blood Cholesterol ?,2,2
+What are the symptoms of High Blood Pressure ?,2,2
+What are the symptoms of Hypoglycemia ?,2,1
+What are the symptoms of Kidney Disease ?,2,2
+What are the symptoms of Leukemia ?,2,2
+What are the symptoms of Lung Cancer ?,2,2
+What are the symptoms of Narcolepsy ?,2,2
+What are the symptoms of Neuroblastoma ?,2,2
+What are the symptoms of Osteoarthritis ?,2,2
+What are the symptoms of Osteoporosis ?,2,2
+What are the symptoms of Paget's Disease of Bone ?,2,2
+What are the symptoms of Parkinson's Disease ?,3,3
+What are the symptoms of Peripheral Arterial Disease (P.A.D.) ?,2,2
+What are the symptoms of Polycystic Kidney Disease ?,2,2
+What are the symptoms of Polycythemia Vera ?,2,2
+What are the symptoms of Prescription and Illicit Drug Abuse ?,2,2
+What are the symptoms of Prevent diabetes problems: Keep your heart and blood vessels healthy ?,2,2
+What are the symptoms of Problems with Smell ?,2,2
+What are the symptoms of Prostate Cancer ?,4,4
+What are the symptoms of Rheumatoid Arthritis ?,2,2
+What are the symptoms of Sarcoidosis ?,2,2
+What are the symptoms of Shingles ?,3,3
+What are the symptoms of Short Bowel Syndrome ?,2,2
+What are the symptoms of Skin Cancer ?,2,2
+What are the symptoms of Stroke ?,3,3
+What are the symptoms of Tetralogy of Fallot ?,2,2
+What are the symptoms of Urinary Tract Infections ?,2,2
+What are the symptoms of Zollinger-Ellison Syndrome ?,2,2
+What are the treatments for 21-hydroxylase deficiency ?,2,2
+What are the treatments for Acromegaly ?,3,2
+What are the treatments for Adrenal Insufficiency and Addison's Disease ?,3,3
+What are the treatments for Age-related Macular Degeneration ?,3,3
+What are the treatments for Alcohol Use and Older Adults ?,5,5
+What are the treatments for Alport syndrome ?,2,2
+What are the treatments for Alzheimer's Disease ?,4,4
+What are the treatments for Amyloidosis and Kidney Disease ?,2,2
+What are the treatments for Anxiety Disorders ?,2,2
+What are the treatments for Balance Problems ?,3,3
+What are the treatments for Bartter syndrome ?,2,2
+What are the treatments for Breast Cancer ?,12,12
+What are the treatments for Brody myopathy ?,2,2
+What are the treatments for CADASIL ?,2,2
+What are the treatments for COPD ?,2,2
+What are the treatments for Camurati-Engelmann disease ?,2,2
+What are the treatments for Cataract ?,2,2
+What are the treatments for Chronic Myelogenous Leukemia ?,2,2
+What are the treatments for Coffin-Siris syndrome ?,2,2
+What are the treatments for Cohen syndrome ?,2,2
+What are the treatments for Colorectal Cancer ?,4,4
+What are the treatments for Colpocephaly ?,2,2
+What are the treatments for Cornelia de Lange syndrome ?,2,2
+What are the treatments for Cowden syndrome ?,2,2
+What are the treatments for Cushing's Syndrome ?,2,2
+What are the treatments for Danon disease ?,2,2
+What are the treatments for Depression ?,3,3
+What are the treatments for Dermatomyositis ?,2,2
+What are the treatments for Diabetes ?,4,4
+"What are the treatments for Diabetes, Heart Disease, and Stroke ?",3,3
+What are the treatments for Diabetic Kidney Disease ?,2,2
+What are the treatments for Diabetic Retinopathy ?,5,5
+What are the treatments for Diverticular Disease ?,2,2
+What are the treatments for Dowling-Degos disease ?,2,2
+What are the treatments for Down syndrome ?,2,2
+What are the treatments for Dry Eye ?,2,2
+What are the treatments for Dry Mouth ?,3,3
+What are the treatments for Ehlers-Danlos syndrome ?,2,2
+What are the treatments for FG syndrome ?,2,2
+What are the treatments for Fabry disease ?,2,2
+What are the treatments for Floating-Harbor syndrome ?,2,2
+What are the treatments for GM1 gangliosidosis ?,2,2
+What are the treatments for Gastroparesis ?,2,2
+What are the treatments for Gilbert syndrome ?,2,2
+What are the treatments for Glaucoma ?,2,2
+What are the treatments for Gout ?,2,2
+What are the treatments for Graves' Disease ?,2,2
+What are the treatments for Greig cephalopolysyndactyly syndrome ?,2,2
+What are the treatments for Gum (Periodontal) Disease ?,6,6
+What are the treatments for Hearing Loss ?,2,2
+What are the treatments for Heart Attack ?,5,5
+What are the treatments for Heart Failure ?,6,6
+What are the treatments for Hemochromatosis ?,2,2
+What are the treatments for High Blood Cholesterol ?,3,3
+What are the treatments for High Blood Pressure ?,4,4
+What are the treatments for Holt-Oram syndrome ?,2,2
+What are the treatments for Huntington disease ?,2,2
+What are the treatments for Hydranencephaly ?,2,2
+What are the treatments for Hypoglycemia ?,2,1
+What are the treatments for Kidney Disease ?,5,5
+What are the treatments for Kidney Failure: Choosing a Treatment That's Right for You ?,3,3
+What are the treatments for Klinefelter syndrome ?,2,2
+What are the treatments for Langerhans cell histiocytosis ?,2,2
+What are the treatments for Laron syndrome ?,2,2
+What are the treatments for Leukemia ?,5,5
+What are the treatments for Liddle syndrome ?,2,2
+What are the treatments for Lung Cancer ?,7,7
+What are the treatments for MECP2 duplication syndrome ?,2,2
+What are the treatments for Machado-Joseph Disease ?,2,2
+What are the treatments for Maffucci syndrome ?,2,2
+What are the treatments for Majeed syndrome ?,2,2
+What are the treatments for Meesmann corneal dystrophy ?,2,2
+What are the treatments for Milroy disease ?,2,2
+What are the treatments for Myhre syndrome ?,2,2
+What are the treatments for Narcolepsy ?,3,3
+What are the treatments for National Hormone and Pituitary Program (NHPP): Information for People Treated with Pituitary Human Growth Hormone (Comprehensive Report) ?,6,6
+What are the treatments for Nerve Disease and Bladder Control ?,3,3
+What are the treatments for Neuroacanthocytosis ?,2,2
+What are the treatments for Noonan syndrome ?,2,2
+What are the treatments for Norrie disease ?,2,2
+What are the treatments for Ollier disease ?,2,2
+What are the treatments for Opitz G/BBB syndrome ?,2,2
+What are the treatments for Osteoarthritis ?,5,5
+What are the treatments for Osteoporosis ?,3,3
+What are the treatments for Paget's Disease of Bone ?,3,3
+What are the treatments for Parkes Weber syndrome ?,2,2
+What are the treatments for Parkinson's Disease ?,3,3
+What are the treatments for Partington syndrome ?,2,2
+What are the treatments for Pelizaeus-Merzbacher disease ?,2,2
+What are the treatments for Peters plus syndrome ?,2,2
+What are the treatments for Pituitary Tumors ?,2,2
+What are the treatments for Poland syndrome ?,2,2
+What are the treatments for Polycythemia Vera ?,2,2
+What are the treatments for Polymyositis ?,2,2
+What are the treatments for Potocki-Shaffer syndrome ?,2,2
+What are the treatments for Prader-Willi syndrome ?,2,2
+What are the treatments for Prescription and Illicit Drug Abuse ?,7,7
+What are the treatments for Problems with Smell ?,2,2
+What are the treatments for Problems with Taste ?,2,2
+What are the treatments for Proctitis ?,2,2
+What are the treatments for Prostate Cancer ?,10,10
+What are the treatments for Prostate Enlargement: Benign Prostatic Hyperplasia ?,2,2
+What are the treatments for Psoriasis ?,6,6
+What are the treatments for Restless Legs Syndrome ?,2,2
+What are the treatments for Rheumatoid Arthritis ?,3,3
+What are the treatments for Rotor syndrome ?,2,2
+What are the treatments for Sarcoidosis ?,2,2
+What are the treatments for Schizencephaly ?,2,2
+What are the treatments for Shingles ?,3,3
+What are the treatments for Skin Cancer ?,4,4
+What are the treatments for Sleep Apnea ?,2,2
+What are the treatments for Stroke ?,5,5
+What are the treatments for Surviving Cancer ?,6,6
+What are the treatments for Tay-Sachs disease ?,2,2
+What are the treatments for Tourette syndrome ?,2,2
+What are the treatments for Treacher Collins syndrome ?,2,2
+What are the treatments for Troyer syndrome ?,2,2
+What are the treatments for Urinary Incontinence ?,3,3
+What are the treatments for Urinary Retention ?,2,2
+What are the treatments for Urinary Tract Infections in Children ?,2,2
+What are the treatments for Vesicoureteral Reflux ?,2,2
+What are the treatments for Weill-Marchesani syndrome ?,2,2
+What are the treatments for What I need to know about Cirrhosis ?,2,2
+What are the treatments for What I need to know about Diverticular Disease ?,3,3
+What are the treatments for What I need to know about Kidney Failure and How Its Treated ?,3,3
+What are the treatments for What I need to know about Living with Kidney Failure ?,2,2
+What are the treatments for Wilson Disease ?,2,2
+What are the treatments for Wilson disease ?,2,2
+What are the treatments for Wolfram syndrome ?,2,2
+What are the treatments for Wolman disease ?,2,2
+What are the treatments for X-linked agammaglobulinemia ?,2,2
+What causes Adrenal Insufficiency and Addison's Disease ?,2,2
+What causes Alzheimer's Disease ?,2,2
+What causes Balance Problems ?,2,2
+What causes COPD ?,3,3
+What causes Causes of Diabetes ?,20,4
+What causes Chronic Diarrhea in Children ?,2,2
+What causes Diabetic Retinopathy ?,2,2
+What causes Dry Eye ?,3,3
+What causes Dry Mouth ?,4,4
+What causes Gas in the Digestive Tract ?,3,3
+What causes Glomerular Diseases ?,2,1
+What causes Gout ?,2,2
+What causes Gum (Periodontal) Disease ?,3,3
+What causes Heart Attack ?,3,3
+What causes Heart Failure ?,3,3
+What causes Hemochromatosis ?,3,3
+What causes High Blood Cholesterol ?,2,2
+What causes High Blood Pressure ?,2,2
+What causes Hypoglycemia ?,2,1
+What causes Low Vision ?,2,2
+What causes Lung Cancer ?,3,3
+What causes Nerve Disease and Bladder Control ?,2,2
+What causes Osteoarthritis ?,2,2
+What causes Parkinson's Disease ?,2,2
+What causes Perineal Injury in Males ?,2,2
+What causes Problems with Smell ?,3,3
+What causes Problems with Taste ?,3,3
+What causes Proctitis ?,2,1
+What causes Prolactinoma ?,2,2
+What causes Psoriasis ?,2,2
+What causes Rheumatoid Arthritis ?,2,2
+What causes Sarcoidosis ?,2,2
+What causes Shingles ?,2,2
+What causes Urinary Incontinence ?,2,2
+What causes Urinary Incontinence in Children ?,2,2
+What causes What I need to know about Erectile Dysfunction ?,3,3
+What causes What I need to know about Gas ?,3,3
+What causes What I need to know about Hirschsprung Disease ?,2,2
+What is (are) 17-beta hydroxysteroid dehydrogenase 3 deficiency ?,2,2
+What is (are) 2-methylbutyryl-CoA dehydrogenase deficiency ?,2,2
+What is (are) 21-hydroxylase deficiency ?,2,2
+What is (are) 22q11.2 deletion syndrome ?,2,2
+What is (are) 22q13.3 deletion syndrome ?,2,2
+What is (are) 2q37 deletion syndrome ?,2,2
+"What is (are) 46,XX testicular disorder of sex development ?",2,2
+"What is (are) 48,XXYY syndrome ?",2,2
+What is (are) ?,2,2
+What is (are) ADCY5-related dyskinesia ?,2,2
+What is (are) Abdominal Adhesions ?,2,2
+What is (are) Acquired Cystic Kidney Disease ?,2,2
+What is (are) Acromegaly ?,2,2
+What is (are) Age-related Macular Degeneration ?,9,9
+What is (are) Alagille Syndrome ?,2,2
+What is (are) Alagille syndrome ?,2,2
+What is (are) Alcohol Use and Older Adults ?,4,4
+What is (are) Alpha-1 Antitrypsin Deficiency ?,2,2
+What is (are) Alport syndrome ?,2,2
+What is (are) Alzheimer disease ?,2,2
+What is (are) Alzheimer's Caregiving ?,6,6
+What is (are) Alzheimer's Disease ?,8,8
+What is (are) Am I at Risk for Type 2 Diabetes? Taking Steps to Lower Your Risk of Getting Diabetes ?,2,2
+What is (are) Amyloidosis and Kidney Disease ?,4,4
+What is (are) Anal Cancer ?,2,2
+What is (are) Andermann syndrome ?,2,2
+What is (are) Andersen-Tawil syndrome ?,2,2
+What is (are) Anemia ?,2,2
+What is (are) Anemia in Chronic Kidney Disease ?,3,3
+What is (are) Anemia of Inflammation and Chronic Disease ?,2,2
+What is (are) Anencephaly ?,2,2
+What is (are) Angelman syndrome ?,2,2
+What is (are) Angina ?,2,2
+What is (are) Anxiety Disorders ?,6,6
+What is (are) Apert syndrome ?,2,2
+What is (are) Aphasia ?,2,2
+What is (are) Aplastic Anemia ?,2,2
+What is (are) Arrhythmia ?,2,2
+What is (are) Arts syndrome ?,2,2
+What is (are) Asperger syndrome ?,2,2
+What is (are) Aspergillosis ?,2,2
+What is (are) Asthma ?,3,3
+What is (are) Ataxia Telangiectasia ?,2,2
+What is (are) Atherosclerosis ?,2,2
+What is (are) Atrial Fibrillation ?,2,2
+What is (are) Autoimmune Hepatitis ?,4,4
+What is (are) Back Pain ?,2,2
+What is (are) Balance Problems ?,5,5
+What is (are) Baller-Gerold syndrome ?,2,2
+What is (are) Bartter syndrome ?,2,2
+What is (are) Beare-Stevenson cutis gyrata syndrome ?,2,2
+What is (are) Bell's Palsy ?,2,2
+What is (are) Brachial Plexus Injuries ?,2,2
+What is (are) Breast Cancer ?,12,12
+What is (are) Brody myopathy ?,2,2
+What is (are) Brooke-Spiegler syndrome ?,2,2
+What is (are) CADASIL ?,2,2
+What is (are) CHOPS syndrome ?,2,2
+What is (are) COPD ?,4,4
+What is (are) Camurati-Engelmann disease ?,2,2
+What is (are) Cardiomyopathy ?,2,2
+What is (are) Carney complex ?,2,2
+What is (are) Carotid Artery Disease ?,2,2
+What is (are) Carpal Tunnel Syndrome ?,2,2
+What is (are) Carpenter syndrome ?,2,2
+What is (are) Cataract ?,7,7
+What is (are) Causes of Diabetes ?,4,1
+What is (are) Celiac Disease ?,2,2
+What is (are) Cerebral Palsy ?,2,2
+What is (are) Chanarin-Dorfman syndrome ?,2,2
+What is (are) Char syndrome ?,2,2
+What is (are) Charcot-Marie-Tooth Disease ?,2,2
+What is (are) Charcot-Marie-Tooth disease ?,2,2
+What is (are) Chiari Malformation ?,2,2
+What is (are) Childhood Nephrotic Syndrome ?,2,2
+What is (are) Chronic Lymphocytic Leukemia ?,2,2
+What is (are) Chronic Myelogenous Leukemia ?,2,2
+What is (are) Chronic Pain ?,2,2
+What is (are) Cirrhosis ?,2,2
+What is (are) Cockayne syndrome ?,2,2
+What is (are) Coffin-Siris syndrome ?,2,2
+What is (are) Cohen syndrome ?,2,2
+What is (are) Colorectal Cancer ?,12,12
+What is (are) Colpocephaly ?,2,2
+What is (are) Coma ?,2,2
+What is (are) Complex Regional Pain Syndrome ?,2,2
+What is (are) Congenital Heart Defects ?,2,2
+What is (are) Cornelia de Lange syndrome ?,2,2
+What is (are) Costello syndrome ?,2,2
+What is (are) Cough ?,2,2
+What is (are) Cowden syndrome ?,2,2
+What is (are) Creating a Family Health History ?,7,7
+What is (are) Creutzfeldt-Jakob Disease ?,2,2
+What is (are) Crohn's Disease ?,3,3
+What is (are) Cushing disease ?,2,2
+What is (are) Cushing's Syndrome ?,3,3
+What is (are) Cyclic Vomiting Syndrome ?,2,2
+What is (are) Cystic Fibrosis ?,2,2
+What is (are) Danon disease ?,2,2
+What is (are) Deep Vein Thrombosis ?,2,2
+What is (are) Dementia ?,2,2
+What is (are) Denys-Drash syndrome ?,2,2
+What is (are) Depression ?,4,4
+What is (are) Dermatomyositis ?,2,2
+What is (are) Diabetes ?,8,8
+"What is (are) Diabetes, Heart Disease, and Stroke ?",6,5
+What is (are) Diabetic Heart Disease ?,2,2
+What is (are) Diabetic Kidney Disease ?,3,3
+What is (are) Diabetic Neuropathies: The Nerve Damage of Diabetes ?,6,6
+What is (are) Diabetic Retinopathy ?,6,6
+What is (are) Diagnosis of Diabetes and Prediabetes ?,2,2
+What is (are) Diarrhea ?,2,2
+What is (are) Diverticular Disease ?,3,3
+What is (are) Donnai-Barrow syndrome ?,2,2
+What is (are) Dowling-Degos disease ?,2,2
+What is (are) Down syndrome ?,2,2
+What is (are) Dry Eye ?,5,5
+What is (are) Dry Mouth ?,8,8
+What is (are) Dumping Syndrome ?,2,2
+What is (are) Dwarfism ?,2,2
+What is (are) Ectopic Kidney ?,2,2
+What is (are) Ehlers-Danlos syndrome ?,2,2
+What is (are) Emanuel syndrome ?,2,2
+What is (are) Endocarditis ?,2,2
+What is (are) Endometrial Cancer ?,3,3
+What is (are) Epilepsy ?,2,2
+What is (are) Erdheim-Chester disease ?,2,2
+What is (are) Ewing sarcoma ?,2,2
+What is (are) FG syndrome ?,2,2
+What is (are) Fabry disease ?,2,2
+What is (are) Fanconi anemia ?,2,2
+What is (are) Fecal Incontinence ?,3,3
+What is (are) Financial Help for Diabetes Care ?,6,6
+What is (are) Floating-Harbor syndrome ?,2,2
+What is (are) Friedreich ataxia ?,2,2
+What is (are) Friedreich's Ataxia ?,2,2
+What is (are) Fryns syndrome ?,2,2
+What is (are) GM1 gangliosidosis ?,2,2
+What is (are) GRACILE syndrome ?,2,2
+What is (are) Gallbladder Cancer ?,2,2
+What is (are) Gallstones ?,4,4
+What is (are) Gastroparesis ?,2,2
+What is (are) Gaucher Disease ?,2,2
+What is (are) Gaucher disease ?,2,2
+What is (are) Gilbert syndrome ?,2,2
+What is (are) Glanzmann thrombasthenia ?,2,2
+What is (are) Glaucoma ?,6,6
+What is (are) Glomerular Diseases ?,3,2
+What is (are) Gout ?,4,4
+What is (are) Graves' Disease ?,2,2
+What is (are) Greig cephalopolysyndactyly syndrome ?,2,2
+What is (are) Growth Failure in Children with Chronic Kidney Disease ?,2,2
+What is (are) Gum (Periodontal) Disease ?,4,4
+What is (are) Hashimoto's Disease ?,2,2
+What is (are) Headache ?,2,2
+What is (are) Hearing Loss ?,2,2
+What is (are) Heart Attack ?,7,7
+What is (are) Heart Failure ?,6,6
+What is (are) Hematuria (Blood in the Urine) ?,2,2
+What is (are) Hemochromatosis ?,4,4
+What is (are) Hemolytic Uremic Syndrome in Children ?,2,2
+What is (are) Hemophilia ?,3,3
+What is (are) Hemorrhoids ?,2,2
+What is (are) Hennekam syndrome ?,2,2
+What is (are) Hepatitis B: What Asian and Pacific Islander Americans Need to Know ?,2,2
+What is (are) Hermansky-Pudlak syndrome ?,2,2
+What is (are) High Blood Cholesterol ?,19,19
+What is (are) High Blood Pressure ?,11,11
+What is (are) High Blood Pressure and Kidney Disease ?,2,2
+What is (are) Holt-Oram syndrome ?,2,2
+What is (are) Human Growth Hormone and Creutzfeldt-Jakob Disease Resource List ?,2,2
+What is (are) Huntington disease ?,2,2
+What is (are) Huntington's Disease ?,2,2
+What is (are) Hydranencephaly ?,2,2
+What is (are) Hydrocephalus ?,2,2
+What is (are) Hyperthyroidism ?,3,3
+What is (are) Hypoglycemia ?,3,2
+What is (are) Hypothyroidism ?,3,3
+What is (are) Indigestion ?,2,2
+What is (are) Inguinal Hernia ?,2,2
+What is (are) Insomnia ?,2,2
+What is (are) Insulin Resistance and Prediabetes ?,4,4
+What is (are) Irritable Bowel Syndrome in Children ?,2,2
+What is (are) Joubert syndrome ?,2,2
+What is (are) KBG syndrome ?,2,2
+What is (are) Kallmann syndrome ?,2,2
+What is (are) Kawasaki Disease ?,2,2
+What is (are) Kidney Disease ?,5,5
+What is (are) Kidney Dysplasia ?,2,2
+What is (are) Kidney Failure: Choosing a Treatment That's Right for You ?,5,5
+What is (are) Kidney Failure: Eat Right to Feel Right on Hemodialysis ?,12,6
+What is (are) Kidney Stones in Adults ?,3,3
+What is (are) Kidney Stones in Children ?,3,3
+What is (are) Klinefelter syndrome ?,2,2
+What is (are) Knee Replacement ?,6,6
+What is (are) L1 syndrome ?,2,2
+What is (are) Lactose Intolerance ?,4,4
+What is (are) Laing distal myopathy ?,2,2
+What is (are) Langerhans cell histiocytosis ?,2,2
+What is (are) Laron syndrome ?,2,2
+What is (are) Larsen syndrome ?,2,2
+What is (are) Leber hereditary optic neuropathy ?,2,2
+What is (are) Lennox-Gastaut syndrome ?,2,2
+What is (are) Lenz microphthalmia syndrome ?,2,2
+What is (are) Leukemia ?,10,10
+What is (are) Leukodystrophy ?,2,2
+What is (are) Liddle syndrome ?,2,2
+What is (are) Liver (Hepatocellular) Cancer ?,2,2
+What is (are) Loeys-Dietz syndrome ?,2,2
+What is (are) Low Vision ?,3,3
+What is (are) Lujan syndrome ?,2,2
+What is (are) Lung Cancer ?,8,8
+What is (are) Lupus ?,2,2
+What is (are) Lupus Nephritis ?,2,2
+What is (are) Lynch syndrome ?,2,2
+What is (are) MECP2 duplication syndrome ?,2,2
+What is (are) Maffucci syndrome ?,2,2
+What is (are) Majeed syndrome ?,2,2
+What is (are) Malaria ?,2,2
+What is (are) Male Breast Cancer ?,2,2
+What is (are) Marfan Syndrome ?,2,2
+What is (are) Marfan syndrome ?,2,2
+What is (are) Medicare and Continuing Care ?,14,14
+What is (are) Meesmann corneal dystrophy ?,2,2
+What is (are) Melanoma ?,2,2
+What is (are) Metabolic Syndrome ?,2,2
+What is (are) Microcephaly ?,2,2
+What is (are) Microscopic Colitis: Collagenous Colitis and Lymphocytic Colitis ?,2,2
+What is (are) Migraine ?,2,2
+What is (are) Miller syndrome ?,2,2
+What is (are) Miller-Dieker syndrome ?,2,2
+What is (are) Milroy disease ?,2,2
+What is (are) Mineral and Bone Disorder in Chronic Kidney Disease ?,2,2
+What is (are) Mitral Valve Prolapse ?,2,2
+What is (are) Moebius syndrome ?,2,2
+What is (are) Monogenic Forms of Diabetes: Neonatal Diabetes Mellitus and Maturity-onset Diabetes of the Young ?,3,3
+What is (are) Mowat-Wilson syndrome ?,2,2
+What is (are) Muckle-Wells syndrome ?,2,2
+What is (are) Multiple Sclerosis ?,2,2
+What is (are) Muscular Dystrophy ?,2,2
+What is (are) Myasthenia Gravis ?,2,2
+What is (are) Myelodysplastic Syndromes ?,2,2
+What is (are) Myhre syndrome ?,2,2
+What is (are) Narcolepsy ?,3,3
+What is (are) Neuroacanthocytosis ?,2,2
+What is (are) Neuroblastoma ?,4,4
+What is (are) Neurofibromatosis ?,3,3
+What is (are) Nicolaides-Baraitser syndrome ?,2,2
+What is (are) Noonan syndrome ?,2,2
+What is (are) Norrie disease ?,2,2
+What is (are) Northern epilepsy ?,2,2
+What is (are) Nutrition for Advanced Chronic Kidney Disease in Adults ?,10,10
+What is (are) Nutrition for Early Chronic Kidney Disease in Adults ?,4,4
+What is (are) Ollier disease ?,2,2
+What is (are) Opitz G/BBB syndrome ?,2,2
+What is (are) Osteoarthritis ?,3,3
+What is (are) Osteoporosis ?,6,6
+"What is (are) Ovarian, Fallopian Tube, and Primary Peritoneal Cancer ?",2,2
+What is (are) Oxygen Therapy ?,2,2
+What is (are) Paget disease of bone ?,2,2
+What is (are) Paget's Disease of Bone ?,3,3
+What is (are) Pallister-Killian mosaic syndrome ?,2,2
+What is (are) Pancreatic Cancer ?,2,2
+What is (are) Parkes Weber syndrome ?,2,2
+What is (are) Parkinson disease ?,2,2
+What is (are) Parkinson's Disease ?,11,11
+What is (are) Partington syndrome ?,2,2
+What is (are) Pelizaeus-Merzbacher disease ?,2,2
+What is (are) Pendred syndrome ?,2,2
+What is (are) Peripheral Arterial Disease (P.A.D.) ?,3,3
+What is (are) Peters plus syndrome ?,2,2
+What is (are) Peutz-Jeghers syndrome ?,2,2
+What is (are) Pituitary Tumors ?,3,3
+What is (are) Pneumonia ?,2,2
+What is (are) Poland syndrome ?,2,2
+What is (are) Polycystic Kidney Disease ?,3,3
+What is (are) Polycythemia Vera ?,2,2
+What is (are) Polymyositis ?,2,2
+What is (are) Porencephaly ?,2,2
+What is (are) Porphyria ?,4,4
+What is (are) Potocki-Shaffer syndrome ?,2,2
+What is (are) Prader-Willi syndrome ?,2,2
+What is (are) Pregnancy and Thyroid Disease ?,2,2
+What is (are) Prescription and Illicit Drug Abuse ?,4,4
+What is (are) Prevent diabetes problems: Keep your diabetes under control ?,2,2
+What is (are) Prevent diabetes problems: Keep your kidneys healthy ?,3,3
+What is (are) Prevent diabetes problems: Keep your nervous system healthy ?,2,2
+What is (are) Primary Hyperparathyroidism ?,3,3
+What is (are) Problems with Smell ?,3,3
+What is (are) Problems with Taste ?,3,3
+What is (are) Proctitis ?,2,1
+What is (are) Progressive Supranuclear Palsy ?,2,2
+What is (are) Prolactinoma ?,2,2
+What is (are) Prostate Cancer ?,9,9
+What is (are) Prostate Enlargement: Benign Prostatic Hyperplasia ?,2,2
+What is (are) Proteus syndrome ?,2,2
+What is (are) Psoriasis ?,7,7
+What is (are) Pulmonary Embolism ?,2,2
+What is (are) Pulmonary Hypertension ?,2,2
+What is (are) Pyelonephritis: Kidney Infection ?,2,2
+What is (are) Quitting Smoking for Older Adults ?,4,4
+What is (are) Rabson-Mendenhall syndrome ?,2,2
+What is (are) Renal Artery Stenosis ?,2,2
+What is (are) Renal Tubular Acidosis ?,4,2
+What is (are) Respiratory Failure ?,2,2
+What is (are) Restless Legs Syndrome ?,2,2
+What is (are) Rett Syndrome ?,2,2
+What is (are) Rett syndrome ?,2,2
+What is (are) Rh Incompatibility ?,2,2
+What is (are) Rheumatoid Arthritis ?,4,4
+What is (are) Rickets ?,2,2
+What is (are) Roberts syndrome ?,2,2
+What is (are) Robinow syndrome ?,2,2
+What is (are) Rotor syndrome ?,2,2
+What is (are) Russell-Silver syndrome ?,2,2
+What is (are) Salivary Gland Cancer ?,2,2
+What is (are) Sarcoidosis ?,3,3
+What is (are) Schizencephaly ?,2,2
+What is (are) Scleroderma ?,2,2
+What is (are) Shingles ?,5,5
+What is (are) Short Bowel Syndrome ?,4,4
+What is (are) Simple Kidney Cysts ?,2,2
+What is (are) Skin Cancer ?,13,13
+What is (are) Sleep Apnea ?,3,3
+What is (are) Smoking and the Digestive System ?,2,2
+What is (are) Snyder-Robinson syndrome ?,2,2
+What is (are) Solitary Kidney ?,2,2
+What is (are) Sotos syndrome ?,2,2
+What is (are) Spina Bifida ?,2,2
+What is (are) Spinal Muscular Atrophy ?,2,2
+What is (are) Stroke ?,13,13
+What is (are) Surviving Cancer ?,5,5
+What is (are) Swallowing Disorders ?,2,2
+What is (are) Syringomyelia ?,2,2
+What is (are) Tay-Sachs Disease ?,2,2
+What is (are) Tay-Sachs disease ?,2,2
+What is (are) Testicular Cancer ?,2,2
+What is (are) Tetralogy of Fallot ?,2,2
+What is (are) Thalassemia ?,2,2
+What is (are) Thoracic Outlet Syndrome ?,2,2
+What is (are) Tietz syndrome ?,2,2
+What is (are) Tourette Syndrome ?,2,2
+What is (are) Tourette syndrome ?,2,2
+What is (are) Transient Ischemic Attack ?,2,2
+What is (are) Traumatic Brain Injury ?,2,2
+What is (are) Treacher Collins syndrome ?,2,2
+What is (are) Treatment Methods for Kidney Failure: Peritoneal Dialysis ?,2,2
+What is (are) Tremor ?,2,2
+What is (are) Trigeminal Neuralgia ?,2,2
+What is (are) Troyer syndrome ?,2,2
+What is (are) Tuberous Sclerosis ?,2,2
+What is (are) Turner syndrome ?,2,2
+What is (are) Ulcerative Colitis ?,3,3
+What is (are) Unverricht-Lundborg disease ?,2,2
+What is (are) Urinary Incontinence ?,4,4
+What is (are) Urinary Incontinence in Men ?,4,4
+What is (are) Urinary Retention ?,2,2
+What is (are) Urinary Tract Infection In Adults ?,2,2
+What is (are) Urinary Tract Infections ?,3,3
+What is (are) Urinary Tract Infections in Children ?,2,2
+What is (are) VACTERL association ?,2,2
+What is (are) Varicose Veins ?,2,2
+What is (are) Vasculitis ?,2,2
+What is (are) Vesicoureteral Reflux ?,2,2
+What is (are) Vohwinkel syndrome ?,2,2
+What is (are) Vulvar Cancer ?,2,2
+What is (are) WAGR syndrome ?,2,2
+What is (are) Waardenburg syndrome ?,2,2
+What is (are) Weaver syndrome ?,2,2
+What is (are) Weill-Marchesani syndrome ?,2,2
+What is (are) What I need to know about Bladder Control for Women ?,2,2
+What is (are) What I need to know about Crohn's Disease ?,2,2
+What is (are) What I need to know about Diverticular Disease ?,2,2
+What is (are) What I need to know about Gestational Diabetes ?,2,2
+What is (are) What I need to know about Hepatitis A ?,2,2
+What is (are) What I need to know about Hepatitis B ?,4,4
+What is (are) What I need to know about Hepatitis C ?,4,4
+What is (are) What I need to know about Hirschsprung Disease ?,2,2
+What is (are) What I need to know about Kidney Failure and How Its Treated ?,6,6
+What is (are) What I need to know about Kidney Stones ?,3,3
+What is (are) What I need to know about Lactose Intolerance ?,2,2
+What is (are) Whipple Disease ?,2,2
+What is (are) Williams syndrome ?,2,2
+What is (are) Wilson Disease ?,4,4
+What is (are) Wilson disease ?,2,2
+What is (are) Wolff-Parkinson-White syndrome ?,2,2
+What is (are) Wolfram syndrome ?,2,2
+What is (are) Wolman disease ?,2,2
+What is (are) X-linked adrenal hypoplasia congenita ?,2,2
+What is (are) X-linked agammaglobulinemia ?,2,2
+What is (are) X-linked congenital stationary night blindness ?,2,2
+What is (are) X-linked creatine deficiency ?,2,2
+What is (are) X-linked sideroblastic anemia ?,2,2
+What is (are) Your Guide to Diabetes: Type 1 and Type 2 ?,2,2
+What is (are) Zollinger-Ellison Syndrome ?,2,2
+What is the outlook for Breast Cancer ?,2,2
+What is the outlook for Electrocardiogram ?,3,3
+What is the outlook for Kidney Dysplasia ?,2,2
+What is the outlook for Machado-Joseph Disease ?,2,2
+What is the outlook for Oxygen Therapy ?,2,2
+What is the outlook for Pituitary Tumors ?,2,2
+What to do for Abdominal Adhesions ?,2,2
+What to do for Acquired Cystic Kidney Disease ?,2,2
+What to do for Adrenal Insufficiency and Addison's Disease ?,2,2
+What to do for Alagille Syndrome ?,2,2
+What to do for Alzheimer's Caregiving ?,2,2
+What to do for Amyloidosis and Kidney Disease ?,2,2
+What to do for Anemia in Chronic Kidney Disease ?,2,2
+What to do for Anemia of Inflammation and Chronic Disease ?,2,2
+What to do for Autoimmune Hepatitis ?,2,2
+What to do for Biliary Atresia ?,2,2
+What to do for Causes of Diabetes ?,4,1
+What to do for Celiac Disease ?,2,2
+What to do for Childhood Nephrotic Syndrome ?,2,2
+What to do for Chronic Diarrhea in Children ?,2,2
+What to do for Cirrhosis ?,2,2
+What to do for Crohn's Disease ?,2,2
+What to do for Cyclic Vomiting Syndrome ?,2,2
+What to do for Cystocele ?,2,2
+"What to do for Diabetes, Heart Disease, and Stroke ?",2,1
+What to do for Diarrhea ?,2,2
+What to do for Diverticular Disease ?,2,2
+What to do for Dumping Syndrome ?,2,2
+What to do for Ectopic Kidney ?,2,2
+What to do for Facing the Challenges of Chronic Kidney Disease in Children ?,2,2
+What to do for Fecal Incontinence ?,2,2
+What to do for Foodborne Illnesses ?,2,2
+What to do for Gallstones ?,2,2
+What to do for Gas in the Digestive Tract ?,2,2
+What to do for Gastritis ?,2,2
+What to do for Gastroparesis ?,2,2
+What to do for Glomerular Diseases ?,2,1
+What to do for Goodpasture Syndrome ?,2,2
+What to do for Graves' Disease ?,2,2
+What to do for Growth Failure in Children with Chronic Kidney Disease ?,2,2
+What to do for Hashimoto's Disease ?,2,2
+What to do for Hematuria (Blood in the Urine) ?,2,2
+What to do for Hemochromatosis ?,2,2
+What to do for Hemolytic Uremic Syndrome in Children ?,2,2
+What to do for Henoch-Schnlein Purpura ?,2,2
+What to do for High Blood Pressure and Kidney Disease ?,2,2
+What to do for Hyperthyroidism ?,2,2
+What to do for Hypoglycemia ?,2,2
+What to do for Hypothyroidism ?,2,2
+What to do for IgA Nephropathy ?,2,2
+What to do for Inguinal Hernia ?,2,2
+What to do for Insulin Resistance and Prediabetes ?,2,2
+What to do for Intestinal Pseudo-obstruction ?,2,2
+What to do for Irritable Bowel Syndrome in Children ?,2,2
+What to do for Kidney Disease of Diabetes ?,2,1
+What to do for Kidney Dysplasia ?,2,2
+What to do for Kidney Failure: Choosing a Treatment That's Right for You ?,2,2
+What to do for Kidney Failure: What to Expect ?,2,2
+What to do for Kidney Stones in Children ?,2,2
+What to do for Lactose Intolerance ?,2,2
+What to do for Lupus Nephritis ?,2,2
+What to do for Medullary Sponge Kidney ?,2,2
+What to do for Microscopic Colitis: Collagenous Colitis and Lymphocytic Colitis ?,2,2
+What to do for Mntriers Disease ?,2,2
+What to do for Nephrotic Syndrome in Adults ?,2,2
+What to do for Overview of Kidney Disease in Children ?,2,2
+What to do for Perineal Injury in Males ?,2,2
+What to do for Peyronie's Disease ?,2,2
+What to do for Polycystic Kidney Disease ?,2,2
+What to do for Porphyria ?,2,2
+What to do for Pregnancy and Thyroid Disease ?,2,2
+What to do for Primary Biliary Cirrhosis ?,2,2
+What to do for Primary Hyperparathyroidism ?,2,2
+What to do for Proctitis ?,2,2
+What to do for Prostate Enlargement: Benign Prostatic Hyperplasia ?,2,2
+What to do for Pyelonephritis: Kidney Infection ?,2,2
+What to do for Renal Artery Stenosis ?,2,2
+What to do for Renal Tubular Acidosis ?,2,1
+What to do for Short Bowel Syndrome ?,2,2
+What to do for Simple Kidney Cysts ?,2,2
+What to do for Smoking and the Digestive System ?,2,2
+What to do for Solitary Kidney ?,2,2
+What to do for Treatment Methods for Kidney Failure: Peritoneal Dialysis ?,2,2
+What to do for Ulcerative Colitis ?,2,2
+What to do for Urinary Incontinence in Children ?,2,2
+What to do for Urinary Retention ?,2,2
+What to do for Urinary Tract Infections in Children ?,2,2
+What to do for Urine Blockage in Newborns ?,2,2
+What to do for Vesicoureteral Reflux ?,2,2
+What to do for Viral Gastroenteritis ?,2,2
+What to do for What I need to know about Crohn's Disease ?,2,2
+What to do for What I need to know about Diarrhea ?,2,2
+What to do for What I need to know about Erectile Dysfunction ?,2,2
+What to do for What I need to know about Gas ?,2,2
+What to do for What I need to know about Gestational Diabetes ?,2,2
+What to do for What I need to know about Hepatitis A ?,2,2
+What to do for What I need to know about Hepatitis B ?,2,2
+What to do for What I need to know about Hepatitis C ?,2,2
+What to do for What I need to know about Kidney Failure and How Its Treated ?,2,2
+What to do for What I need to know about Kidney Stones ?,2,2
+What to do for What I need to know about Lactose Intolerance ?,2,2
+What to do for What I need to know about Living with Kidney Failure ?,2,2
+What to do for What I need to know about My Child's Urinary Tract Infection ?,2,2
+What to do for Whipple Disease ?,2,2
+What to do for Wilson Disease ?,2,2
+What to do for Zollinger-Ellison Syndrome ?,2,2
+Who is at risk for Age-related Macular Degeneration? ?,2,2
+Who is at risk for Alkhurma Hemorrhagic Fever (AHF)? ?,2,2
+Who is at risk for Am I at Risk for Type 2 Diabetes? Taking Steps to Lower Your Risk of Getting Diabetes? ?,3,3
+Who is at risk for Breast Cancer? ?,9,9
+Who is at risk for Cataract? ?,5,5
+Who is at risk for Chapare Hemorrhagic Fever (CHHF)? ?,2,2
+Who is at risk for Colorectal Cancer? ?,6,6
+Who is at risk for Crimean-Congo Hemorrhagic Fever (CCHF)? ?,2,2
+Who is at risk for Diabetes? ?,2,2
+Who is at risk for Endometrial Cancer? ?,3,3
+Who is at risk for Glaucoma? ?,2,2
+Who is at risk for Gout? ?,3,3
+Who is at risk for Heart Attack? ?,4,4
+Who is at risk for Heart Failure? ?,3,3
+Who is at risk for Hendra Virus Disease (HeV)? ?,2,2
+Who is at risk for Hepatitis B: What Asian and Pacific Islander Americans Need to Know? ?,2,2
+Who is at risk for High Blood Pressure? ?,2,2
+Who is at risk for I Can Lower My Risk for Type 2 Diabetes: A Guide for American Indians? ?,2,2
+Who is at risk for Kyasanur Forest Disease (KFD)? ?,2,2
+Who is at risk for Leukemia? ?,2,2
+Who is at risk for Liver (Hepatocellular) Cancer? ?,2,2
+Who is at risk for Lujo Hemorrhagic Fever (LUHF)? ?,2,2
+Who is at risk for Lung Cancer? ?,6,6
+Who is at risk for Lymphocytic Choriomeningitis (LCM)? ?,2,2
+Who is at risk for Marburg hemorrhagic fever (Marburg HF)? ?,2,2
+Who is at risk for Neuroblastoma? ?,2,2
+Who is at risk for Nocardiosis? ?,2,2
+Who is at risk for Omsk Hemorrhagic Fever (OHF)? ?,2,2
+Who is at risk for Oral Cavity and Oropharyngeal Cancer? ?,3,3
+Who is at risk for Osteoporosis? ?,6,6
+"Who is at risk for Ovarian, Fallopian Tube, and Primary Peritoneal Cancer? ?",2,2
+Who is at risk for Overweight and Obesity? ?,2,2
+Who is at risk for Prostate Cancer? ?,9,9
+Who is at risk for Shingles? ?,2,2
+Who is at risk for Skin Cancer? ?,5,5
+Who is at risk for Stroke? ?,4,4
+Who is at risk for Testicular Cancer? ?,3,3
+what research (or clinical trials) is being done for Alzheimer's Disease ?,6,6
+what research (or clinical trials) is being done for Breast Cancer ?,5,5
+what research (or clinical trials) is being done for Colorectal Cancer ?,2,2
+what research (or clinical trials) is being done for Endometrial Cancer ?,2,2
+what research (or clinical trials) is being done for Kidney Disease ?,2,2
+what research (or clinical trials) is being done for Leukemia ?,2,2
+what research (or clinical trials) is being done for Machado-Joseph Disease ?,2,2
+what research (or clinical trials) is being done for Parkinson's Disease ?,3,3
+what research (or clinical trials) is being done for Pituitary Tumors ?,2,2
+what research (or clinical trials) is being done for Problems with Taste ?,2,2
+what research (or clinical trials) is being done for Prostate Cancer ?,3,3
+what research (or clinical trials) is being done for Psoriasis ?,2,2
+what research (or clinical trials) is being done for Skin Cancer ?,4,4
+what research (or clinical trials) is being done for Stroke ?,3,3

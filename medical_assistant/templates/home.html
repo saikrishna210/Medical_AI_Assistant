@@ -1,0 +1,120 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Medical Suggestion AI</title>
+
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+
+<body>
+
+    <header class="navbar">
+        <h2>Medical Suggestion AI</h2>
+        <nav>
+            <a href="/">Home</a>
+            <a href="#about">About</a>
+        </nav>
+    </header>
+
+    <main class="container">
+
+        <section class="hero">
+            <h1>Your Personal Medical Information Assistant</h1>
+            <p>
+                Enter your symptoms to receive general medical
+                information and guidance.
+            </p>
+        </section>
+
+        <section class="form-container">
+
+            <h2>Symptom Analysis</h2>
+
+            <form method="POST">
+                {% csrf_token %}
+
+                <label for="symptoms">Describe Your Symptoms</label>
+                <textarea id="symptoms" name="symptoms" placeholder="Example: Frequent urination, excessive thirst..."
+                    required></textarea>
+
+                <label for="duration">Symptom Duration</label>
+                <input type="text" id="duration" name="duration" placeholder="Example: 5 days" required>
+
+                <label for="severity">Severity</label>
+                <select id="severity" name="severity" required>
+                    <option value="">Select severity</option>
+                    <option value="Mild">Mild</option>
+                    <option value="Moderate">Moderate</option>
+                    <option value="Severe">Severe</option>
+                </select>
+
+                <label for="additional_symptoms">
+                    Additional Symptoms
+                </label>
+
+                <textarea id="additional_symptoms" name="additional_symptoms"
+                    placeholder="Enter any additional symptoms..."></textarea>
+
+                <button type="submit">
+                    Analyze Symptoms
+                </button>
+
+            </form>
+
+            {% if error %}
+            <div class="error-container">
+                <p>{{ error }}</p>
+            </div>
+            {% endif %}
+
+
+            <!-- {% if result %}
+            <div class="result-container">
+                <h2>AI Medical Information</h2>
+                <div class="result-content">
+                    {{ result|linebreaksbr }}
+                </div>
+            </div>
+            {% endif %} -->
+
+            
+            {% if result %}
+            <div class="result-container">
+                <h2>AI Medical Information</h2>
+                <div class="result-content">
+                    {{ result }}
+                </div>
+            </div>
+            {% endif %}
+
+
+
+            <p class="disclaimer">
+                Disclaimer: This application provides educational
+                medical information only. It does not provide
+                medical diagnosis or replace professional healthcare.
+                Seek urgent medical care for emergency symptoms.
+            </p>
+
+        </section>
+
+        <section id="about" class="about">
+            <h2>About Our Project</h2>
+            <p>
+                This application combines Natural Language Processing,
+                Retrieval-Augmented Generation, FAISS and Large Language
+                Models to retrieve relevant medical information and
+                provide understandable responses.
+            </p>
+        </section>
+
+    </main>
+
+</body>
+
+</html>
